@@ -12,7 +12,7 @@ for (let i = 55; i >= 20; i--) {
 // Дан массив numbers. Вывести в консоль все числа из массива. Сформировать новый массив numbers_squared и передать в него все элементы из массива numbers, возведенные в квадрат
 const numbers = [3, 5, 11, 2, 8, 1, 6]
 console.log(numbers)
-const numbers_squared = [] //?????????????????????
+const numbers_squared = [] 
 for(let i = 0; i < numbers.length; i++){
     numbers_squared[i] = numbers[i]**2
 }

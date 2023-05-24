@@ -1,0 +1,17 @@
+.numbers {
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+.strings_container {
+    margin-left: 10px;
+    margin-bottom: 40px;
+}
+.users_container{
+    display: flex;
+}
+.users_container div{
+    margin: 10px;
+    border: 10px ridge rgb(62, 178, 153);
+    padding: 8px;
+    width: 240px;
+}
